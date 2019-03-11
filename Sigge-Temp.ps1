@@ -11,6 +11,8 @@ git push
 
 git commit
 
+git add 
+
 git config --global user.name "Sigge Sigvardsson"
 git config --global user.email sigge3000@hotmail.com 
 git commit --amend --reset-author
