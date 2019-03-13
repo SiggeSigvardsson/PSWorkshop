@@ -7,9 +7,11 @@ Git log
 #to get active files online from 
 git pull upstream master
 
+git commit
+
 git push
 
-git commit
+
 
 git add 
 

@@ -8,3 +8,15 @@ Git log
 git pull upstream master
 
 git push
+
+git commit
+
+git config --global user.name "Sigge Sigvardsson"
+git config --global user.email sigge3000@hotmail.com 
+git commit --amend --reset-author
+ 
+git config --edit
+
+git log
+
+git status
